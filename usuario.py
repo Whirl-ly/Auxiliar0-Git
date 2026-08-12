@@ -1,4 +1,7 @@
 class Usuario:
+
+    #que linda es la vida
+
     def __init__(self, username, password, email):
         self.username = username
         self.password = password
